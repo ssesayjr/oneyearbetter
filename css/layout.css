@@ -182,7 +182,7 @@ ul#nav li.current a { color: #fe6928; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #000524;
+   background: #cd607e;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -202,8 +202,8 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 400px;
+   height: 400px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
