@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/oneyearbetter/static/css/main.31d6cfe0.css",
-    "main.js": "/oneyearbetter/static/js/main.d0684898.js",
+    "main.js": "/oneyearbetter/static/js/main.ca787442.js",
     "static/js/787.8dd2b5b2.chunk.js": "/oneyearbetter/static/js/787.8dd2b5b2.chunk.js",
     "index.html": "/oneyearbetter/index.html",
-    "main.d0684898.js.map": "/oneyearbetter/static/js/main.d0684898.js.map",
+    "main.ca787442.js.map": "/oneyearbetter/static/js/main.ca787442.js.map",
     "787.8dd2b5b2.chunk.js.map": "/oneyearbetter/static/js/787.8dd2b5b2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.d0684898.js"
+    "static/js/main.ca787442.js"
   ]
 }
