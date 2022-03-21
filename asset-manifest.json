@@ -1,14 +1,22 @@
 {
   "files": {
-    "main.css": "/oneyearbetter/static/css/main.31d6cfe0.css",
-    "main.js": "/oneyearbetter/static/js/main.4341c02e.js",
-    "static/js/787.8dd2b5b2.chunk.js": "/oneyearbetter/static/js/787.8dd2b5b2.chunk.js",
+    "main.css": "/oneyearbetter/static/css/main.bab0b925.chunk.css",
+    "main.js": "/oneyearbetter/static/js/main.d516f990.chunk.js",
+    "main.js.map": "/oneyearbetter/static/js/main.d516f990.chunk.js.map",
+    "runtime-main.js": "/oneyearbetter/static/js/runtime-main.23e42e12.js",
+    "runtime-main.js.map": "/oneyearbetter/static/js/runtime-main.23e42e12.js.map",
+    "static/js/2.f5bf9e97.chunk.js": "/oneyearbetter/static/js/2.f5bf9e97.chunk.js",
+    "static/js/2.f5bf9e97.chunk.js.map": "/oneyearbetter/static/js/2.f5bf9e97.chunk.js.map",
+    "static/js/3.941f26d0.chunk.js": "/oneyearbetter/static/js/3.941f26d0.chunk.js",
+    "static/js/3.941f26d0.chunk.js.map": "/oneyearbetter/static/js/3.941f26d0.chunk.js.map",
     "index.html": "/oneyearbetter/index.html",
-    "main.4341c02e.js.map": "/oneyearbetter/static/js/main.4341c02e.js.map",
-    "787.8dd2b5b2.chunk.js.map": "/oneyearbetter/static/js/787.8dd2b5b2.chunk.js.map"
+    "static/css/main.bab0b925.chunk.css.map": "/oneyearbetter/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.f5bf9e97.chunk.js.LICENSE.txt": "/oneyearbetter/static/js/2.f5bf9e97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.31d6cfe0.css",
-    "static/js/main.4341c02e.js"
+    "static/js/runtime-main.23e42e12.js",
+    "static/js/2.f5bf9e97.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.d516f990.chunk.js"
   ]
 }
